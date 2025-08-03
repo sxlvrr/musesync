@@ -1,0 +1,31 @@
+id,nom,genre,bpm_moyen,energie,popularite
+1,Artiste_1,Jazz,131,0.72,88
+2,Artiste_2,Folk,104,0.84,61
+3,Artiste_3,Electro,114,0.86,25
+4,Artiste_4,Folk,109,0.49,62
+5,Artiste_5,Folk,116,0.56,57
+6,Artiste_6,Rock,133,0.93,91
+7,Artiste_7,Rock,87,0.51,57
+8,Artiste_8,World,82,0.89,72
+9,Artiste_9,Indie Pop,110,0.39,53
+10,Artiste_10,Jazz,78,0.31,53
+11,Artiste_11,Hip-Hop,123,0.71,90
+12,Artiste_12,Jazz,121,0.74,22
+13,Artiste_13,Hip-Hop,88,0.56,21
+14,Artiste_14,Rock,89,0.44,64
+15,Artiste_15,Ambient,110,0.65,82
+16,Artiste_16,Rock,79,0.79,21
+17,Artiste_17,Ambient,80,0.68,95
+18,Artiste_18,Indie Pop,118,0.65,57
+19,Artiste_19,Rock,132,0.63,53
+20,Artiste_20,Folk,92,0.89,62
+21,Artiste_21,Techno,86,0.65,49
+22,Artiste_22,Indie Pop,96,0.84,66
+23,Artiste_23,Jazz,97,0.38,56
+24,Artiste_24,Jazz,136,0.76,67
+25,Artiste_25,Techno,87,0.75,61
+26,Artiste_26,Rock,136,0.89,64
+27,Artiste_27,Indie Pop,125,0.45,20
+28,Artiste_28,Hip-Hop,84,0.72,94
+29,Artiste_29,Techno,76,0.31,30
+30,Artiste_30,Indie Pop,118,0.7,66

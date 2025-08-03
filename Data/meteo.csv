@@ -1,0 +1,841 @@
+lieu,date,temperature,meteo
+La Vapeur,2024-06-01,12,Nuageux
+Le Rocher,2024-06-01,15,Ensoleille
+L’Escale,2024-06-01,24,Canicule
+Underground Club,2024-06-01,23,Brume
+Nova Scene,2024-06-01,32,Pluvieux
+L'Oasis,2024-06-01,27,Orage
+Echo Hall,2024-06-01,15,Orage
+La Vapeur,2024-06-02,30,Nuageux
+Le Rocher,2024-06-02,17,Brume
+L’Escale,2024-06-02,11,Canicule
+Underground Club,2024-06-02,25,Ensoleille
+Nova Scene,2024-06-02,35,Nuageux
+L'Oasis,2024-06-02,27,Orage
+Echo Hall,2024-06-02,30,Nuageux
+La Vapeur,2024-06-03,23,Canicule
+Le Rocher,2024-06-03,28,Ensoleille
+L’Escale,2024-06-03,22,Nuageux
+Underground Club,2024-06-03,29,Canicule
+Nova Scene,2024-06-03,35,Pluvieux
+L'Oasis,2024-06-03,14,Canicule
+Echo Hall,2024-06-03,17,Nuageux
+La Vapeur,2024-06-04,33,Orage
+Le Rocher,2024-06-04,13,Pluvieux
+L’Escale,2024-06-04,21,Canicule
+Underground Club,2024-06-04,10,Brume
+Nova Scene,2024-06-04,21,Orage
+L'Oasis,2024-06-04,18,Ensoleille
+Echo Hall,2024-06-04,30,Pluvieux
+La Vapeur,2024-06-05,13,Brume
+Le Rocher,2024-06-05,28,Ensoleille
+L’Escale,2024-06-05,18,Brume
+Underground Club,2024-06-05,34,Orage
+Nova Scene,2024-06-05,22,Ensoleille
+L'Oasis,2024-06-05,13,Canicule
+Echo Hall,2024-06-05,25,Pluvieux
+La Vapeur,2024-06-06,24,Orage
+Le Rocher,2024-06-06,24,Ensoleille
+L’Escale,2024-06-06,20,Brume
+Underground Club,2024-06-06,17,Nuageux
+Nova Scene,2024-06-06,32,Pluvieux
+L'Oasis,2024-06-06,25,Canicule
+Echo Hall,2024-06-06,19,Brume
+La Vapeur,2024-06-07,10,Canicule
+Le Rocher,2024-06-07,22,Canicule
+L’Escale,2024-06-07,29,Nuageux
+Underground Club,2024-06-07,32,Ensoleille
+Nova Scene,2024-06-07,30,Nuageux
+L'Oasis,2024-06-07,33,Ensoleille
+Echo Hall,2024-06-07,14,Pluvieux
+La Vapeur,2024-06-08,35,Ensoleille
+Le Rocher,2024-06-08,10,Brume
+L’Escale,2024-06-08,12,Brume
+Underground Club,2024-06-08,15,Brume
+Nova Scene,2024-06-08,21,Brume
+L'Oasis,2024-06-08,30,Brume
+Echo Hall,2024-06-08,21,Brume
+La Vapeur,2024-06-09,20,Pluvieux
+Le Rocher,2024-06-09,22,Pluvieux
+L’Escale,2024-06-09,10,Ensoleille
+Underground Club,2024-06-09,34,Pluvieux
+Nova Scene,2024-06-09,20,Nuageux
+L'Oasis,2024-06-09,13,Pluvieux
+Echo Hall,2024-06-09,11,Nuageux
+La Vapeur,2024-06-10,27,Ensoleille
+Le Rocher,2024-06-10,20,Nuageux
+L’Escale,2024-06-10,27,Nuageux
+Underground Club,2024-06-10,30,Orage
+Nova Scene,2024-06-10,20,Orage
+L'Oasis,2024-06-10,31,Brume
+Echo Hall,2024-06-10,13,Ensoleille
+La Vapeur,2024-06-11,24,Ensoleille
+Le Rocher,2024-06-11,20,Nuageux
+L’Escale,2024-06-11,25,Canicule
+Underground Club,2024-06-11,13,Nuageux
+Nova Scene,2024-06-11,21,Ensoleille
+L'Oasis,2024-06-11,10,Nuageux
+Echo Hall,2024-06-11,21,Brume
+La Vapeur,2024-06-12,14,Canicule
+Le Rocher,2024-06-12,22,Ensoleille
+L’Escale,2024-06-12,19,Brume
+Underground Club,2024-06-12,31,Brume
+Nova Scene,2024-06-12,19,Canicule
+L'Oasis,2024-06-12,23,Canicule
+Echo Hall,2024-06-12,32,Orage
+La Vapeur,2024-06-13,11,Nuageux
+Le Rocher,2024-06-13,30,Canicule
+L’Escale,2024-06-13,30,Orage
+Underground Club,2024-06-13,32,Orage
+Nova Scene,2024-06-13,31,Orage
+L'Oasis,2024-06-13,23,Ensoleille
+Echo Hall,2024-06-13,30,Nuageux
+La Vapeur,2024-06-14,14,Nuageux
+Le Rocher,2024-06-14,24,Nuageux
+L’Escale,2024-06-14,33,Canicule
+Underground Club,2024-06-14,28,Pluvieux
+Nova Scene,2024-06-14,12,Nuageux
+L'Oasis,2024-06-14,22,Ensoleille
+Echo Hall,2024-06-14,26,Nuageux
+La Vapeur,2024-06-15,26,Pluvieux
+Le Rocher,2024-06-15,17,Nuageux
+L’Escale,2024-06-15,19,Pluvieux
+Underground Club,2024-06-15,19,Orage
+Nova Scene,2024-06-15,12,Canicule
+L'Oasis,2024-06-15,28,Pluvieux
+Echo Hall,2024-06-15,18,Orage
+La Vapeur,2024-06-16,27,Pluvieux
+Le Rocher,2024-06-16,22,Nuageux
+L’Escale,2024-06-16,13,Nuageux
+Underground Club,2024-06-16,33,Canicule
+Nova Scene,2024-06-16,26,Brume
+L'Oasis,2024-06-16,21,Ensoleille
+Echo Hall,2024-06-16,33,Orage
+La Vapeur,2024-06-17,29,Ensoleille
+Le Rocher,2024-06-17,28,Ensoleille
+L’Escale,2024-06-17,20,Ensoleille
+Underground Club,2024-06-17,15,Pluvieux
+Nova Scene,2024-06-17,26,Nuageux
+L'Oasis,2024-06-17,31,Orage
+Echo Hall,2024-06-17,35,Canicule
+La Vapeur,2024-06-18,13,Pluvieux
+Le Rocher,2024-06-18,14,Ensoleille
+L’Escale,2024-06-18,17,Ensoleille
+Underground Club,2024-06-18,35,Ensoleille
+Nova Scene,2024-06-18,21,Brume
+L'Oasis,2024-06-18,28,Ensoleille
+Echo Hall,2024-06-18,33,Canicule
+La Vapeur,2024-06-19,24,Ensoleille
+Le Rocher,2024-06-19,30,Brume
+L’Escale,2024-06-19,32,Canicule
+Underground Club,2024-06-19,32,Pluvieux
+Nova Scene,2024-06-19,31,Ensoleille
+L'Oasis,2024-06-19,35,Ensoleille
+Echo Hall,2024-06-19,31,Ensoleille
+La Vapeur,2024-06-20,13,Orage
+Le Rocher,2024-06-20,34,Canicule
+L’Escale,2024-06-20,16,Pluvieux
+Underground Club,2024-06-20,24,Ensoleille
+Nova Scene,2024-06-20,28,Canicule
+L'Oasis,2024-06-20,30,Brume
+Echo Hall,2024-06-20,12,Nuageux
+La Vapeur,2024-06-21,25,Brume
+Le Rocher,2024-06-21,24,Canicule
+L’Escale,2024-06-21,26,Ensoleille
+Underground Club,2024-06-21,13,Pluvieux
+Nova Scene,2024-06-21,33,Pluvieux
+L'Oasis,2024-06-21,18,Nuageux
+Echo Hall,2024-06-21,10,Orage
+La Vapeur,2024-06-22,22,Orage
+Le Rocher,2024-06-22,24,Orage
+L’Escale,2024-06-22,15,Pluvieux
+Underground Club,2024-06-22,22,Orage
+Nova Scene,2024-06-22,27,Pluvieux
+L'Oasis,2024-06-22,11,Orage
+Echo Hall,2024-06-22,18,Brume
+La Vapeur,2024-06-23,14,Ensoleille
+Le Rocher,2024-06-23,11,Ensoleille
+L’Escale,2024-06-23,21,Nuageux
+Underground Club,2024-06-23,16,Canicule
+Nova Scene,2024-06-23,19,Canicule
+L'Oasis,2024-06-23,28,Ensoleille
+Echo Hall,2024-06-23,27,Brume
+La Vapeur,2024-06-24,10,Orage
+Le Rocher,2024-06-24,19,Brume
+L’Escale,2024-06-24,29,Pluvieux
+Underground Club,2024-06-24,20,Orage
+Nova Scene,2024-06-24,15,Canicule
+L'Oasis,2024-06-24,16,Nuageux
+Echo Hall,2024-06-24,30,Ensoleille
+La Vapeur,2024-06-25,18,Ensoleille
+Le Rocher,2024-06-25,23,Pluvieux
+L’Escale,2024-06-25,24,Brume
+Underground Club,2024-06-25,12,Canicule
+Nova Scene,2024-06-25,10,Ensoleille
+L'Oasis,2024-06-25,21,Pluvieux
+Echo Hall,2024-06-25,28,Pluvieux
+La Vapeur,2024-06-26,20,Brume
+Le Rocher,2024-06-26,24,Ensoleille
+L’Escale,2024-06-26,28,Nuageux
+Underground Club,2024-06-26,26,Canicule
+Nova Scene,2024-06-26,16,Brume
+L'Oasis,2024-06-26,26,Nuageux
+Echo Hall,2024-06-26,18,Ensoleille
+La Vapeur,2024-06-27,14,Ensoleille
+Le Rocher,2024-06-27,19,Pluvieux
+L’Escale,2024-06-27,31,Pluvieux
+Underground Club,2024-06-27,27,Nuageux
+Nova Scene,2024-06-27,17,Ensoleille
+L'Oasis,2024-06-27,31,Canicule
+Echo Hall,2024-06-27,18,Canicule
+La Vapeur,2024-06-28,21,Canicule
+Le Rocher,2024-06-28,33,Ensoleille
+L’Escale,2024-06-28,21,Ensoleille
+Underground Club,2024-06-28,12,Ensoleille
+Nova Scene,2024-06-28,14,Brume
+L'Oasis,2024-06-28,22,Orage
+Echo Hall,2024-06-28,35,Ensoleille
+La Vapeur,2024-06-29,11,Pluvieux
+Le Rocher,2024-06-29,26,Nuageux
+L’Escale,2024-06-29,28,Orage
+Underground Club,2024-06-29,29,Ensoleille
+Nova Scene,2024-06-29,24,Nuageux
+L'Oasis,2024-06-29,29,Nuageux
+Echo Hall,2024-06-29,26,Pluvieux
+La Vapeur,2024-06-30,28,Brume
+Le Rocher,2024-06-30,26,Orage
+L’Escale,2024-06-30,11,Canicule
+Underground Club,2024-06-30,31,Canicule
+Nova Scene,2024-06-30,14,Nuageux
+L'Oasis,2024-06-30,28,Pluvieux
+Echo Hall,2024-06-30,22,Pluvieux
+La Vapeur,2024-07-01,19,Ensoleille
+Le Rocher,2024-07-01,32,Ensoleille
+L’Escale,2024-07-01,16,Canicule
+Underground Club,2024-07-01,25,Pluvieux
+Nova Scene,2024-07-01,12,Canicule
+L'Oasis,2024-07-01,34,Ensoleille
+Echo Hall,2024-07-01,12,Pluvieux
+La Vapeur,2024-07-02,35,Orage
+Le Rocher,2024-07-02,16,Nuageux
+L’Escale,2024-07-02,24,Ensoleille
+Underground Club,2024-07-02,24,Nuageux
+Nova Scene,2024-07-02,10,Nuageux
+L'Oasis,2024-07-02,24,Nuageux
+Echo Hall,2024-07-02,34,Nuageux
+La Vapeur,2024-07-03,22,Brume
+Le Rocher,2024-07-03,16,Nuageux
+L’Escale,2024-07-03,18,Canicule
+Underground Club,2024-07-03,22,Orage
+Nova Scene,2024-07-03,30,Pluvieux
+L'Oasis,2024-07-03,28,Canicule
+Echo Hall,2024-07-03,20,Orage
+La Vapeur,2024-07-04,19,Pluvieux
+Le Rocher,2024-07-04,19,Nuageux
+L’Escale,2024-07-04,14,Orage
+Underground Club,2024-07-04,20,Nuageux
+Nova Scene,2024-07-04,11,Brume
+L'Oasis,2024-07-04,17,Canicule
+Echo Hall,2024-07-04,33,Pluvieux
+La Vapeur,2024-07-05,34,Pluvieux
+Le Rocher,2024-07-05,27,Orage
+L’Escale,2024-07-05,23,Canicule
+Underground Club,2024-07-05,20,Brume
+Nova Scene,2024-07-05,31,Pluvieux
+L'Oasis,2024-07-05,29,Canicule
+Echo Hall,2024-07-05,26,Brume
+La Vapeur,2024-07-06,27,Ensoleille
+Le Rocher,2024-07-06,22,Nuageux
+L’Escale,2024-07-06,32,Canicule
+Underground Club,2024-07-06,13,Canicule
+Nova Scene,2024-07-06,21,Nuageux
+L'Oasis,2024-07-06,26,Pluvieux
+Echo Hall,2024-07-06,21,Nuageux
+La Vapeur,2024-07-07,28,Ensoleille
+Le Rocher,2024-07-07,14,Brume
+L’Escale,2024-07-07,15,Ensoleille
+Underground Club,2024-07-07,20,Brume
+Nova Scene,2024-07-07,20,Pluvieux
+L'Oasis,2024-07-07,28,Canicule
+Echo Hall,2024-07-07,16,Orage
+La Vapeur,2024-07-08,29,Pluvieux
+Le Rocher,2024-07-08,12,Ensoleille
+L’Escale,2024-07-08,20,Orage
+Underground Club,2024-07-08,11,Brume
+Nova Scene,2024-07-08,29,Nuageux
+L'Oasis,2024-07-08,30,Ensoleille
+Echo Hall,2024-07-08,33,Brume
+La Vapeur,2024-07-09,18,Orage
+Le Rocher,2024-07-09,21,Pluvieux
+L’Escale,2024-07-09,24,Ensoleille
+Underground Club,2024-07-09,30,Orage
+Nova Scene,2024-07-09,28,Ensoleille
+L'Oasis,2024-07-09,33,Ensoleille
+Echo Hall,2024-07-09,10,Orage
+La Vapeur,2024-07-10,26,Ensoleille
+Le Rocher,2024-07-10,19,Brume
+L’Escale,2024-07-10,33,Ensoleille
+Underground Club,2024-07-10,21,Brume
+Nova Scene,2024-07-10,27,Brume
+L'Oasis,2024-07-10,12,Pluvieux
+Echo Hall,2024-07-10,29,Orage
+La Vapeur,2024-07-11,13,Pluvieux
+Le Rocher,2024-07-11,34,Ensoleille
+L’Escale,2024-07-11,26,Ensoleille
+Underground Club,2024-07-11,25,Canicule
+Nova Scene,2024-07-11,31,Ensoleille
+L'Oasis,2024-07-11,22,Nuageux
+Echo Hall,2024-07-11,14,Orage
+La Vapeur,2024-07-12,13,Ensoleille
+Le Rocher,2024-07-12,30,Nuageux
+L’Escale,2024-07-12,23,Brume
+Underground Club,2024-07-12,31,Ensoleille
+Nova Scene,2024-07-12,21,Brume
+L'Oasis,2024-07-12,12,Brume
+Echo Hall,2024-07-12,17,Orage
+La Vapeur,2024-07-13,20,Pluvieux
+Le Rocher,2024-07-13,26,Orage
+L’Escale,2024-07-13,24,Orage
+Underground Club,2024-07-13,17,Nuageux
+Nova Scene,2024-07-13,21,Ensoleille
+L'Oasis,2024-07-13,35,Brume
+Echo Hall,2024-07-13,17,Nuageux
+La Vapeur,2024-07-14,24,Nuageux
+Le Rocher,2024-07-14,15,Canicule
+L’Escale,2024-07-14,17,Brume
+Underground Club,2024-07-14,32,Nuageux
+Nova Scene,2024-07-14,35,Orage
+L'Oasis,2024-07-14,13,Ensoleille
+Echo Hall,2024-07-14,15,Orage
+La Vapeur,2024-07-15,18,Orage
+Le Rocher,2024-07-15,10,Canicule
+L’Escale,2024-07-15,18,Canicule
+Underground Club,2024-07-15,31,Pluvieux
+Nova Scene,2024-07-15,32,Canicule
+L'Oasis,2024-07-15,33,Pluvieux
+Echo Hall,2024-07-15,20,Nuageux
+La Vapeur,2024-07-16,32,Canicule
+Le Rocher,2024-07-16,16,Pluvieux
+L’Escale,2024-07-16,18,Nuageux
+Underground Club,2024-07-16,12,Ensoleille
+Nova Scene,2024-07-16,29,Nuageux
+L'Oasis,2024-07-16,11,Nuageux
+Echo Hall,2024-07-16,17,Ensoleille
+La Vapeur,2024-07-17,23,Canicule
+Le Rocher,2024-07-17,15,Orage
+L’Escale,2024-07-17,31,Orage
+Underground Club,2024-07-17,22,Nuageux
+Nova Scene,2024-07-17,35,Canicule
+L'Oasis,2024-07-17,15,Orage
+Echo Hall,2024-07-17,34,Canicule
+La Vapeur,2024-07-18,31,Ensoleille
+Le Rocher,2024-07-18,18,Pluvieux
+L’Escale,2024-07-18,35,Brume
+Underground Club,2024-07-18,25,Brume
+Nova Scene,2024-07-18,19,Pluvieux
+L'Oasis,2024-07-18,24,Canicule
+Echo Hall,2024-07-18,30,Nuageux
+La Vapeur,2024-07-19,34,Pluvieux
+Le Rocher,2024-07-19,11,Nuageux
+L’Escale,2024-07-19,13,Pluvieux
+Underground Club,2024-07-19,20,Orage
+Nova Scene,2024-07-19,30,Orage
+L'Oasis,2024-07-19,20,Ensoleille
+Echo Hall,2024-07-19,34,Ensoleille
+La Vapeur,2024-07-20,34,Pluvieux
+Le Rocher,2024-07-20,14,Canicule
+L’Escale,2024-07-20,17,Brume
+Underground Club,2024-07-20,29,Brume
+Nova Scene,2024-07-20,34,Orage
+L'Oasis,2024-07-20,27,Orage
+Echo Hall,2024-07-20,20,Pluvieux
+La Vapeur,2024-07-21,10,Orage
+Le Rocher,2024-07-21,31,Canicule
+L’Escale,2024-07-21,14,Brume
+Underground Club,2024-07-21,18,Orage
+Nova Scene,2024-07-21,32,Ensoleille
+L'Oasis,2024-07-21,28,Brume
+Echo Hall,2024-07-21,16,Nuageux
+La Vapeur,2024-07-22,19,Orage
+Le Rocher,2024-07-22,17,Ensoleille
+L’Escale,2024-07-22,25,Canicule
+Underground Club,2024-07-22,28,Canicule
+Nova Scene,2024-07-22,23,Nuageux
+L'Oasis,2024-07-22,28,Pluvieux
+Echo Hall,2024-07-22,21,Ensoleille
+La Vapeur,2024-07-23,21,Brume
+Le Rocher,2024-07-23,17,Ensoleille
+L’Escale,2024-07-23,29,Nuageux
+Underground Club,2024-07-23,11,Orage
+Nova Scene,2024-07-23,34,Pluvieux
+L'Oasis,2024-07-23,12,Orage
+Echo Hall,2024-07-23,19,Pluvieux
+La Vapeur,2024-07-24,17,Pluvieux
+Le Rocher,2024-07-24,29,Ensoleille
+L’Escale,2024-07-24,26,Pluvieux
+Underground Club,2024-07-24,29,Pluvieux
+Nova Scene,2024-07-24,22,Orage
+L'Oasis,2024-07-24,30,Brume
+Echo Hall,2024-07-24,20,Canicule
+La Vapeur,2024-07-25,34,Ensoleille
+Le Rocher,2024-07-25,18,Brume
+L’Escale,2024-07-25,10,Orage
+Underground Club,2024-07-25,17,Ensoleille
+Nova Scene,2024-07-25,21,Nuageux
+L'Oasis,2024-07-25,30,Ensoleille
+Echo Hall,2024-07-25,21,Pluvieux
+La Vapeur,2024-07-26,11,Ensoleille
+Le Rocher,2024-07-26,34,Nuageux
+L’Escale,2024-07-26,27,Brume
+Underground Club,2024-07-26,12,Ensoleille
+Nova Scene,2024-07-26,11,Pluvieux
+L'Oasis,2024-07-26,21,Pluvieux
+Echo Hall,2024-07-26,34,Canicule
+La Vapeur,2024-07-27,22,Canicule
+Le Rocher,2024-07-27,23,Ensoleille
+L’Escale,2024-07-27,27,Ensoleille
+Underground Club,2024-07-27,26,Nuageux
+Nova Scene,2024-07-27,12,Brume
+L'Oasis,2024-07-27,10,Brume
+Echo Hall,2024-07-27,10,Orage
+La Vapeur,2024-07-28,12,Pluvieux
+Le Rocher,2024-07-28,24,Canicule
+L’Escale,2024-07-28,17,Ensoleille
+Underground Club,2024-07-28,14,Orage
+Nova Scene,2024-07-28,25,Pluvieux
+L'Oasis,2024-07-28,29,Brume
+Echo Hall,2024-07-28,12,Brume
+La Vapeur,2024-07-29,33,Orage
+Le Rocher,2024-07-29,13,Canicule
+L’Escale,2024-07-29,20,Nuageux
+Underground Club,2024-07-29,27,Ensoleille
+Nova Scene,2024-07-29,14,Nuageux
+L'Oasis,2024-07-29,20,Nuageux
+Echo Hall,2024-07-29,24,Pluvieux
+La Vapeur,2024-07-30,31,Brume
+Le Rocher,2024-07-30,34,Pluvieux
+L’Escale,2024-07-30,27,Pluvieux
+Underground Club,2024-07-30,13,Ensoleille
+Nova Scene,2024-07-30,23,Orage
+L'Oasis,2024-07-30,32,Orage
+Echo Hall,2024-07-30,28,Nuageux
+La Vapeur,2024-07-31,26,Orage
+Le Rocher,2024-07-31,13,Brume
+L’Escale,2024-07-31,33,Orage
+Underground Club,2024-07-31,19,Nuageux
+Nova Scene,2024-07-31,34,Orage
+L'Oasis,2024-07-31,26,Ensoleille
+Echo Hall,2024-07-31,13,Pluvieux
+La Vapeur,2024-08-01,25,Pluvieux
+Le Rocher,2024-08-01,29,Orage
+L’Escale,2024-08-01,19,Nuageux
+Underground Club,2024-08-01,22,Nuageux
+Nova Scene,2024-08-01,13,Brume
+L'Oasis,2024-08-01,16,Orage
+Echo Hall,2024-08-01,26,Ensoleille
+La Vapeur,2024-08-02,25,Brume
+Le Rocher,2024-08-02,15,Nuageux
+L’Escale,2024-08-02,23,Ensoleille
+Underground Club,2024-08-02,17,Ensoleille
+Nova Scene,2024-08-02,10,Nuageux
+L'Oasis,2024-08-02,30,Orage
+Echo Hall,2024-08-02,21,Brume
+La Vapeur,2024-08-03,27,Orage
+Le Rocher,2024-08-03,13,Nuageux
+L’Escale,2024-08-03,13,Orage
+Underground Club,2024-08-03,11,Nuageux
+Nova Scene,2024-08-03,29,Pluvieux
+L'Oasis,2024-08-03,28,Brume
+Echo Hall,2024-08-03,29,Ensoleille
+La Vapeur,2024-08-04,16,Nuageux
+Le Rocher,2024-08-04,35,Orage
+L’Escale,2024-08-04,12,Pluvieux
+Underground Club,2024-08-04,31,Pluvieux
+Nova Scene,2024-08-04,16,Nuageux
+L'Oasis,2024-08-04,11,Orage
+Echo Hall,2024-08-04,20,Canicule
+La Vapeur,2024-08-05,28,Brume
+Le Rocher,2024-08-05,30,Canicule
+L’Escale,2024-08-05,25,Nuageux
+Underground Club,2024-08-05,25,Nuageux
+Nova Scene,2024-08-05,12,Canicule
+L'Oasis,2024-08-05,35,Ensoleille
+Echo Hall,2024-08-05,23,Nuageux
+La Vapeur,2024-08-06,27,Nuageux
+Le Rocher,2024-08-06,28,Nuageux
+L’Escale,2024-08-06,17,Nuageux
+Underground Club,2024-08-06,22,Ensoleille
+Nova Scene,2024-08-06,20,Orage
+L'Oasis,2024-08-06,15,Ensoleille
+Echo Hall,2024-08-06,17,Ensoleille
+La Vapeur,2024-08-07,27,Canicule
+Le Rocher,2024-08-07,13,Pluvieux
+L’Escale,2024-08-07,33,Nuageux
+Underground Club,2024-08-07,26,Ensoleille
+Nova Scene,2024-08-07,21,Pluvieux
+L'Oasis,2024-08-07,16,Canicule
+Echo Hall,2024-08-07,22,Canicule
+La Vapeur,2024-08-08,22,Ensoleille
+Le Rocher,2024-08-08,32,Pluvieux
+L’Escale,2024-08-08,14,Orage
+Underground Club,2024-08-08,13,Nuageux
+Nova Scene,2024-08-08,11,Canicule
+L'Oasis,2024-08-08,24,Orage
+Echo Hall,2024-08-08,33,Orage
+La Vapeur,2024-08-09,21,Nuageux
+Le Rocher,2024-08-09,30,Pluvieux
+L’Escale,2024-08-09,35,Canicule
+Underground Club,2024-08-09,27,Orage
+Nova Scene,2024-08-09,21,Ensoleille
+L'Oasis,2024-08-09,31,Nuageux
+Echo Hall,2024-08-09,33,Pluvieux
+La Vapeur,2024-08-10,14,Canicule
+Le Rocher,2024-08-10,16,Ensoleille
+L’Escale,2024-08-10,26,Pluvieux
+Underground Club,2024-08-10,26,Pluvieux
+Nova Scene,2024-08-10,26,Brume
+L'Oasis,2024-08-10,18,Brume
+Echo Hall,2024-08-10,13,Brume
+La Vapeur,2024-08-11,28,Pluvieux
+Le Rocher,2024-08-11,27,Nuageux
+L’Escale,2024-08-11,16,Ensoleille
+Underground Club,2024-08-11,22,Nuageux
+Nova Scene,2024-08-11,29,Ensoleille
+L'Oasis,2024-08-11,18,Nuageux
+Echo Hall,2024-08-11,23,Nuageux
+La Vapeur,2024-08-12,26,Ensoleille
+Le Rocher,2024-08-12,30,Nuageux
+L’Escale,2024-08-12,20,Nuageux
+Underground Club,2024-08-12,29,Canicule
+Nova Scene,2024-08-12,23,Ensoleille
+L'Oasis,2024-08-12,22,Nuageux
+Echo Hall,2024-08-12,22,Pluvieux
+La Vapeur,2024-08-13,15,Nuageux
+Le Rocher,2024-08-13,29,Nuageux
+L’Escale,2024-08-13,31,Canicule
+Underground Club,2024-08-13,28,Canicule
+Nova Scene,2024-08-13,33,Pluvieux
+L'Oasis,2024-08-13,27,Orage
+Echo Hall,2024-08-13,10,Nuageux
+La Vapeur,2024-08-14,15,Brume
+Le Rocher,2024-08-14,19,Orage
+L’Escale,2024-08-14,18,Ensoleille
+Underground Club,2024-08-14,11,Ensoleille
+Nova Scene,2024-08-14,30,Orage
+L'Oasis,2024-08-14,11,Nuageux
+Echo Hall,2024-08-14,18,Ensoleille
+La Vapeur,2024-08-15,32,Orage
+Le Rocher,2024-08-15,33,Ensoleille
+L’Escale,2024-08-15,25,Canicule
+Underground Club,2024-08-15,30,Pluvieux
+Nova Scene,2024-08-15,19,Pluvieux
+L'Oasis,2024-08-15,15,Ensoleille
+Echo Hall,2024-08-15,30,Orage
+La Vapeur,2024-08-16,21,Orage
+Le Rocher,2024-08-16,28,Orage
+L’Escale,2024-08-16,15,Ensoleille
+Underground Club,2024-08-16,13,Nuageux
+Nova Scene,2024-08-16,12,Brume
+L'Oasis,2024-08-16,34,Ensoleille
+Echo Hall,2024-08-16,17,Brume
+La Vapeur,2024-08-17,28,Ensoleille
+Le Rocher,2024-08-17,12,Nuageux
+L’Escale,2024-08-17,34,Orage
+Underground Club,2024-08-17,15,Canicule
+Nova Scene,2024-08-17,17,Nuageux
+L'Oasis,2024-08-17,27,Orage
+Echo Hall,2024-08-17,22,Orage
+La Vapeur,2024-08-18,33,Nuageux
+Le Rocher,2024-08-18,10,Orage
+L’Escale,2024-08-18,33,Pluvieux
+Underground Club,2024-08-18,21,Ensoleille
+Nova Scene,2024-08-18,14,Canicule
+L'Oasis,2024-08-18,26,Ensoleille
+Echo Hall,2024-08-18,27,Pluvieux
+La Vapeur,2024-08-19,31,Canicule
+Le Rocher,2024-08-19,16,Ensoleille
+L’Escale,2024-08-19,26,Nuageux
+Underground Club,2024-08-19,33,Brume
+Nova Scene,2024-08-19,21,Canicule
+L'Oasis,2024-08-19,34,Canicule
+Echo Hall,2024-08-19,23,Brume
+La Vapeur,2024-08-20,13,Nuageux
+Le Rocher,2024-08-20,11,Nuageux
+L’Escale,2024-08-20,27,Nuageux
+Underground Club,2024-08-20,28,Ensoleille
+Nova Scene,2024-08-20,27,Ensoleille
+L'Oasis,2024-08-20,33,Pluvieux
+Echo Hall,2024-08-20,12,Ensoleille
+La Vapeur,2024-08-21,10,Brume
+Le Rocher,2024-08-21,29,Brume
+L’Escale,2024-08-21,13,Ensoleille
+Underground Club,2024-08-21,26,Ensoleille
+Nova Scene,2024-08-21,35,Ensoleille
+L'Oasis,2024-08-21,29,Nuageux
+Echo Hall,2024-08-21,27,Canicule
+La Vapeur,2024-08-22,15,Pluvieux
+Le Rocher,2024-08-22,29,Pluvieux
+L’Escale,2024-08-22,20,Pluvieux
+Underground Club,2024-08-22,14,Canicule
+Nova Scene,2024-08-22,33,Pluvieux
+L'Oasis,2024-08-22,12,Nuageux
+Echo Hall,2024-08-22,14,Pluvieux
+La Vapeur,2024-08-23,10,Orage
+Le Rocher,2024-08-23,11,Orage
+L’Escale,2024-08-23,31,Orage
+Underground Club,2024-08-23,13,Canicule
+Nova Scene,2024-08-23,29,Pluvieux
+L'Oasis,2024-08-23,18,Nuageux
+Echo Hall,2024-08-23,14,Orage
+La Vapeur,2024-08-24,33,Canicule
+Le Rocher,2024-08-24,30,Brume
+L’Escale,2024-08-24,31,Brume
+Underground Club,2024-08-24,25,Pluvieux
+Nova Scene,2024-08-24,17,Brume
+L'Oasis,2024-08-24,34,Pluvieux
+Echo Hall,2024-08-24,20,Brume
+La Vapeur,2024-08-25,27,Canicule
+Le Rocher,2024-08-25,33,Ensoleille
+L’Escale,2024-08-25,14,Brume
+Underground Club,2024-08-25,16,Nuageux
+Nova Scene,2024-08-25,11,Orage
+L'Oasis,2024-08-25,17,Pluvieux
+Echo Hall,2024-08-25,34,Brume
+La Vapeur,2024-08-26,20,Canicule
+Le Rocher,2024-08-26,16,Orage
+L’Escale,2024-08-26,35,Ensoleille
+Underground Club,2024-08-26,21,Canicule
+Nova Scene,2024-08-26,30,Canicule
+L'Oasis,2024-08-26,16,Pluvieux
+Echo Hall,2024-08-26,30,Orage
+La Vapeur,2024-08-27,10,Ensoleille
+Le Rocher,2024-08-27,23,Nuageux
+L’Escale,2024-08-27,30,Orage
+Underground Club,2024-08-27,12,Nuageux
+Nova Scene,2024-08-27,12,Ensoleille
+L'Oasis,2024-08-27,13,Nuageux
+Echo Hall,2024-08-27,19,Pluvieux
+La Vapeur,2024-08-28,26,Ensoleille
+Le Rocher,2024-08-28,19,Ensoleille
+L’Escale,2024-08-28,18,Nuageux
+Underground Club,2024-08-28,18,Brume
+Nova Scene,2024-08-28,32,Canicule
+L'Oasis,2024-08-28,33,Ensoleille
+Echo Hall,2024-08-28,15,Nuageux
+La Vapeur,2024-08-29,14,Pluvieux
+Le Rocher,2024-08-29,12,Canicule
+L’Escale,2024-08-29,27,Canicule
+Underground Club,2024-08-29,31,Nuageux
+Nova Scene,2024-08-29,19,Canicule
+L'Oasis,2024-08-29,14,Nuageux
+Echo Hall,2024-08-29,12,Orage
+La Vapeur,2024-08-30,15,Pluvieux
+Le Rocher,2024-08-30,33,Orage
+L’Escale,2024-08-30,23,Ensoleille
+Underground Club,2024-08-30,11,Canicule
+Nova Scene,2024-08-30,15,Ensoleille
+L'Oasis,2024-08-30,15,Nuageux
+Echo Hall,2024-08-30,11,Ensoleille
+La Vapeur,2024-08-31,14,Nuageux
+Le Rocher,2024-08-31,32,Ensoleille
+L’Escale,2024-08-31,24,Brume
+Underground Club,2024-08-31,16,Nuageux
+Nova Scene,2024-08-31,33,Canicule
+L'Oasis,2024-08-31,20,Ensoleille
+Echo Hall,2024-08-31,16,Pluvieux
+La Vapeur,2024-09-01,24,Orage
+Le Rocher,2024-09-01,24,Orage
+L’Escale,2024-09-01,22,Canicule
+Underground Club,2024-09-01,31,Nuageux
+Nova Scene,2024-09-01,24,Ensoleille
+L'Oasis,2024-09-01,24,Nuageux
+Echo Hall,2024-09-01,10,Nuageux
+La Vapeur,2024-09-02,25,Ensoleille
+Le Rocher,2024-09-02,33,Ensoleille
+L’Escale,2024-09-02,12,Brume
+Underground Club,2024-09-02,22,Nuageux
+Nova Scene,2024-09-02,26,Orage
+L'Oasis,2024-09-02,22,Pluvieux
+Echo Hall,2024-09-02,18,Pluvieux
+La Vapeur,2024-09-03,26,Pluvieux
+Le Rocher,2024-09-03,22,Orage
+L’Escale,2024-09-03,25,Nuageux
+Underground Club,2024-09-03,34,Orage
+Nova Scene,2024-09-03,22,Ensoleille
+L'Oasis,2024-09-03,13,Pluvieux
+Echo Hall,2024-09-03,31,Brume
+La Vapeur,2024-09-04,15,Orage
+Le Rocher,2024-09-04,30,Orage
+L’Escale,2024-09-04,33,Orage
+Underground Club,2024-09-04,31,Orage
+Nova Scene,2024-09-04,25,Brume
+L'Oasis,2024-09-04,31,Pluvieux
+Echo Hall,2024-09-04,22,Pluvieux
+La Vapeur,2024-09-05,16,Brume
+Le Rocher,2024-09-05,24,Canicule
+L’Escale,2024-09-05,28,Ensoleille
+Underground Club,2024-09-05,35,Canicule
+Nova Scene,2024-09-05,35,Canicule
+L'Oasis,2024-09-05,10,Pluvieux
+Echo Hall,2024-09-05,14,Pluvieux
+La Vapeur,2024-09-06,30,Canicule
+Le Rocher,2024-09-06,25,Nuageux
+L’Escale,2024-09-06,13,Brume
+Underground Club,2024-09-06,30,Ensoleille
+Nova Scene,2024-09-06,10,Brume
+L'Oasis,2024-09-06,29,Canicule
+Echo Hall,2024-09-06,15,Canicule
+La Vapeur,2024-09-07,29,Ensoleille
+Le Rocher,2024-09-07,24,Nuageux
+L’Escale,2024-09-07,19,Nuageux
+Underground Club,2024-09-07,23,Pluvieux
+Nova Scene,2024-09-07,33,Ensoleille
+L'Oasis,2024-09-07,24,Brume
+Echo Hall,2024-09-07,29,Orage
+La Vapeur,2024-09-08,16,Canicule
+Le Rocher,2024-09-08,15,Pluvieux
+L’Escale,2024-09-08,19,Ensoleille
+Underground Club,2024-09-08,21,Orage
+Nova Scene,2024-09-08,25,Canicule
+L'Oasis,2024-09-08,14,Pluvieux
+Echo Hall,2024-09-08,22,Nuageux
+La Vapeur,2024-09-09,15,Brume
+Le Rocher,2024-09-09,30,Canicule
+L’Escale,2024-09-09,34,Ensoleille
+Underground Club,2024-09-09,24,Pluvieux
+Nova Scene,2024-09-09,33,Brume
+L'Oasis,2024-09-09,28,Nuageux
+Echo Hall,2024-09-09,20,Nuageux
+La Vapeur,2024-09-10,23,Pluvieux
+Le Rocher,2024-09-10,23,Canicule
+L’Escale,2024-09-10,31,Orage
+Underground Club,2024-09-10,35,Ensoleille
+Nova Scene,2024-09-10,11,Orage
+L'Oasis,2024-09-10,15,Ensoleille
+Echo Hall,2024-09-10,12,Canicule
+La Vapeur,2024-09-11,25,Orage
+Le Rocher,2024-09-11,21,Nuageux
+L’Escale,2024-09-11,30,Ensoleille
+Underground Club,2024-09-11,29,Brume
+Nova Scene,2024-09-11,13,Nuageux
+L'Oasis,2024-09-11,20,Nuageux
+Echo Hall,2024-09-11,22,Orage
+La Vapeur,2024-09-12,35,Orage
+Le Rocher,2024-09-12,20,Orage
+L’Escale,2024-09-12,34,Pluvieux
+Underground Club,2024-09-12,21,Orage
+Nova Scene,2024-09-12,16,Nuageux
+L'Oasis,2024-09-12,24,Pluvieux
+Echo Hall,2024-09-12,24,Brume
+La Vapeur,2024-09-13,14,Ensoleille
+Le Rocher,2024-09-13,18,Ensoleille
+L’Escale,2024-09-13,29,Nuageux
+Underground Club,2024-09-13,18,Nuageux
+Nova Scene,2024-09-13,22,Orage
+L'Oasis,2024-09-13,22,Brume
+Echo Hall,2024-09-13,33,Orage
+La Vapeur,2024-09-14,17,Brume
+Le Rocher,2024-09-14,28,Brume
+L’Escale,2024-09-14,19,Canicule
+Underground Club,2024-09-14,27,Ensoleille
+Nova Scene,2024-09-14,33,Ensoleille
+L'Oasis,2024-09-14,10,Brume
+Echo Hall,2024-09-14,30,Canicule
+La Vapeur,2024-09-15,11,Canicule
+Le Rocher,2024-09-15,33,Pluvieux
+L’Escale,2024-09-15,10,Nuageux
+Underground Club,2024-09-15,31,Ensoleille
+Nova Scene,2024-09-15,15,Pluvieux
+L'Oasis,2024-09-15,32,Canicule
+Echo Hall,2024-09-15,31,Orage
+La Vapeur,2024-09-16,15,Ensoleille
+Le Rocher,2024-09-16,16,Orage
+L’Escale,2024-09-16,32,Ensoleille
+Underground Club,2024-09-16,16,Orage
+Nova Scene,2024-09-16,17,Pluvieux
+L'Oasis,2024-09-16,15,Nuageux
+Echo Hall,2024-09-16,18,Nuageux
+La Vapeur,2024-09-17,35,Brume
+Le Rocher,2024-09-17,20,Nuageux
+L’Escale,2024-09-17,34,Canicule
+Underground Club,2024-09-17,29,Canicule
+Nova Scene,2024-09-17,15,Canicule
+L'Oasis,2024-09-17,23,Ensoleille
+Echo Hall,2024-09-17,27,Canicule
+La Vapeur,2024-09-18,34,Pluvieux
+Le Rocher,2024-09-18,16,Canicule
+L’Escale,2024-09-18,20,Canicule
+Underground Club,2024-09-18,26,Pluvieux
+Nova Scene,2024-09-18,28,Brume
+L'Oasis,2024-09-18,30,Brume
+Echo Hall,2024-09-18,25,Nuageux
+La Vapeur,2024-09-19,12,Ensoleille
+Le Rocher,2024-09-19,15,Pluvieux
+L’Escale,2024-09-19,26,Canicule
+Underground Club,2024-09-19,33,Ensoleille
+Nova Scene,2024-09-19,26,Ensoleille
+L'Oasis,2024-09-19,23,Orage
+Echo Hall,2024-09-19,34,Pluvieux
+La Vapeur,2024-09-20,12,Pluvieux
+Le Rocher,2024-09-20,31,Brume
+L’Escale,2024-09-20,10,Pluvieux
+Underground Club,2024-09-20,25,Ensoleille
+Nova Scene,2024-09-20,12,Nuageux
+L'Oasis,2024-09-20,23,Pluvieux
+Echo Hall,2024-09-20,34,Orage
+La Vapeur,2024-09-21,19,Nuageux
+Le Rocher,2024-09-21,29,Canicule
+L’Escale,2024-09-21,22,Nuageux
+Underground Club,2024-09-21,27,Nuageux
+Nova Scene,2024-09-21,22,Orage
+L'Oasis,2024-09-21,30,Brume
+Echo Hall,2024-09-21,17,Orage
+La Vapeur,2024-09-22,20,Nuageux
+Le Rocher,2024-09-22,17,Canicule
+L’Escale,2024-09-22,18,Orage
+Underground Club,2024-09-22,10,Canicule
+Nova Scene,2024-09-22,28,Nuageux
+L'Oasis,2024-09-22,16,Nuageux
+Echo Hall,2024-09-22,15,Ensoleille
+La Vapeur,2024-09-23,19,Orage
+Le Rocher,2024-09-23,15,Nuageux
+L’Escale,2024-09-23,15,Ensoleille
+Underground Club,2024-09-23,27,Nuageux
+Nova Scene,2024-09-23,18,Pluvieux
+L'Oasis,2024-09-23,13,Canicule
+Echo Hall,2024-09-23,25,Nuageux
+La Vapeur,2024-09-24,15,Orage
+Le Rocher,2024-09-24,31,Brume
+L’Escale,2024-09-24,30,Nuageux
+Underground Club,2024-09-24,35,Canicule
+Nova Scene,2024-09-24,13,Pluvieux
+L'Oasis,2024-09-24,34,Pluvieux
+Echo Hall,2024-09-24,21,Pluvieux
+La Vapeur,2024-09-25,33,Orage
+Le Rocher,2024-09-25,30,Ensoleille
+L’Escale,2024-09-25,31,Orage
+Underground Club,2024-09-25,28,Pluvieux
+Nova Scene,2024-09-25,10,Nuageux
+L'Oasis,2024-09-25,25,Canicule
+Echo Hall,2024-09-25,27,Brume
+La Vapeur,2024-09-26,25,Pluvieux
+Le Rocher,2024-09-26,26,Orage
+L’Escale,2024-09-26,34,Ensoleille
+Underground Club,2024-09-26,30,Orage
+Nova Scene,2024-09-26,34,Canicule
+L'Oasis,2024-09-26,35,Canicule
+Echo Hall,2024-09-26,31,Canicule
+La Vapeur,2024-09-27,33,Ensoleille
+Le Rocher,2024-09-27,35,Ensoleille
+L’Escale,2024-09-27,24,Pluvieux
+Underground Club,2024-09-27,33,Ensoleille
+Nova Scene,2024-09-27,17,Orage
+L'Oasis,2024-09-27,26,Ensoleille
+Echo Hall,2024-09-27,23,Orage
+La Vapeur,2024-09-28,23,Nuageux
+Le Rocher,2024-09-28,10,Brume
+L’Escale,2024-09-28,10,Canicule
+Underground Club,2024-09-28,13,Pluvieux
+Nova Scene,2024-09-28,27,Canicule
+L'Oasis,2024-09-28,11,Ensoleille
+Echo Hall,2024-09-28,34,Orage

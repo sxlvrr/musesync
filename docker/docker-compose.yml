@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15
+    container_name: musesync_db
+    restart: always
+    environment:
+      POSTGRES_USER: musesync
+      POSTGRES_PASSWORD: secret
+      POSTGRES_DB: musesync
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./initdb:/docker-entrypoint-initdb.d
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
